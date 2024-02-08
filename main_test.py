@@ -5,7 +5,7 @@
 #programme principal
 from machine import Pin, UART
 import utime
-import ld2410B
+import ld2410
 
 #led if human_detection
 # board LED on the Pi Pico is 25
